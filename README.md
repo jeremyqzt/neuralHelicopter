@@ -15,5 +15,6 @@ The next generation takes the 2 best players, randomly takes weights from each a
 
 tkinter, keras and numpy are required to run this application
 
-Sample Run:
+# Sample Run
+
 ![Alt text](img/heli.gif?raw=true "Sample Run")
